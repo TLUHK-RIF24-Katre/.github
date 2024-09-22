@@ -1,5 +1,5 @@
 # Katre Epler (jube, et avalikult peab kaks nime välja käima, aga las ta olla:)
-![Mina](/![Tux, the Linux mascot](/DSC_0038.JPG)
+![Mina](/DSC_0038.JPG)
 
 
 ## Miks ma tulin õppima Haapsalu kolledžisse
