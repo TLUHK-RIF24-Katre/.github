@@ -1,5 +1,5 @@
 # Katre Epler (jube, et avalikult peab kaks nime välja käima, aga las ta olla:)
-![Mina](/DSC_0038.JPG)
+![Mina](/profile/DSC_0038.JPG)
 
 
 ## Miks ma tulin õppima Haapsalu kolledžisse
