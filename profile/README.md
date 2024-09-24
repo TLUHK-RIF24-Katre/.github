@@ -1,4 +1,4 @@
-# Katre Epler (jube, et avalikult peab kaks nime välja käima, aga las ta olla:)
+# Katre Epler
 <img src="/profile/DSC_0038.JPG" alt="Katreke" width="50%" height="50%" >
 
 
